@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: zayn.mc@outlook.com
+        username: zayn.mc
         password: J6PezKRNcXqCXTXA8sBh
         server-dir : public_html/
